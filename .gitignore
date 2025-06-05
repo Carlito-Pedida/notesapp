@@ -25,3 +25,8 @@ dist-ssr
 
 # Environment Vars
 *.env.local
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
